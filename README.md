@@ -1,7 +1,7 @@
 # Discord_GitHub-Commit-Notifier
 
 This is a simple Python script that notifies you when a commit is made to a GitHub repository.
-[](src/show.png)
+![screenshot](src/screenshot.png)
 ## How to use
 
 1. Clone the repository
